@@ -1,6 +1,8 @@
 # README
 
-&lt;上海交通大学生存手册&gt;于08年由一群交大本科生写就，12年过去了无数交大学子受益于它，但有些内容可能已经过时，由于原作者团队主要属于出国攻读博士群体，本手册在国内深造、国内就业等方面存在欠缺。本项目旨在将它制作成gitbook发布，并长期维护该项目，希望能给未来的交大在读和入学新生同学带来微小的帮助，尤其感谢本书原版的作者们！
+原站为 [https://survivesjtu.gitbook.io/](https://survivesjtu.gitbook.io/)，本站为镜像站。感谢上交的学长接续著此书！
+
+<上海交通大学生存手册>于08年由一群交大本科生写就，12年过去了无数交大学子受益于它，但有些内容可能已经过时，由于原作者团队主要属于出国攻读博士群体，本手册在国内深造、国内就业等方面存在欠缺。本项目旨在将它制作成gitbook发布，并长期维护该项目，希望能给未来的交大在读和入学新生同学带来微小的帮助，尤其感谢本书原版的作者们！
 
 暂定修改和增添内容如下:
 
@@ -76,7 +78,7 @@
   * [需要做些什么](fang-tan-ji/bao-yan-zhe-shuo/xu-yao-zuo-xie-shen-me.md)
   * [硕士之后](fang-tan-ji/bao-yan-zhe-shuo/shuo-shi-zhi-hou.md)
 * [已经工作学长的人生经验](fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/)
-* [博士\(生\)学长们的经历](./)
+* [博士(生)学长们的经历](./)
 * [小心项目的陷阱](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/)
   * [辨别项目的质量](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/bian-bie-xiang-mu-de-zhi-liang.md)
   * [选对导师](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/xuan-dui-dao-shi.md)
@@ -112,4 +114,3 @@
   * [形势政策考试](sheng-cun-ji-qiao/pang-men-zuo-dao/xing-shi-zheng-ce-kao-shi.md)
   * [物理实验](sheng-cun-ji-qiao/pang-men-zuo-dao/wu-li-shi-yan.md)
   * [学术灌水](sheng-cun-ji-qiao/pang-men-zuo-dao/xue-shu-guan-shui.md)
-
